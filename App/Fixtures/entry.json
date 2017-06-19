@@ -1,0 +1,35 @@
+// class EntryClass {
+//   constructor(location, readyTime, arrival, active=false) {
+//     this.location = location
+//     this.readyTime = readyTime
+//     this.arrival = arrival
+//     this.active = active
+//   }
+// }
+
+{
+  "total_count": 3,
+  "items": [ 
+    {
+      "depart": "1av 54 St 10019",
+      "destination" : "42nd Street Times Square",
+      "readyTime" : "5 Minutes",
+      "arrival" : "5:00pm",
+      "active": true
+    },
+    {
+      "depart": "1av 54 St 10019",
+      "destination" : "34th Street",
+      "readyTime" : "10 Minutes",
+      "arrival" : "12:00pm",
+      "active": true
+    },
+    {
+      "depart": "1av 54 St 10019",
+      "destination" : "28th Street",
+      "readyTime" : "8 Minutes",
+      "arrival" : "3:00pm",
+      "active": false
+    },
+  ]
+}

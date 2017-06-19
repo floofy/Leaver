@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.6_9689cf645cffa79488132acdb82c343cd6d7f2a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1b49273b651a04c53ea470b64776e0ea169fcad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_791f99ec6d8786a8ad652c4004cf0234c76cf963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_ec249ad33f2be68fb8332c7e59693bcb85c9c53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_c94f960c62eb567a726f5b535acc9f690bcbf476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_a45919b806a961ea21c19bc09f5d3c76922d309e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.6_f7aa37215e3e518626e451c56d5adda994485fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_2b78d6ed9e96541a336ef4226ef7b79f5f305bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_608b6250bc4adde3c8ce1f1b6b80b54cbc4acb4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_648518fd837a621021468f35013a6ce992019f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/Leaver/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/Leaver-react-native-vector-icons-unspecified_9ecb4a62d7aa126b9577e7dd93552de82aa99c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.6_407b50f803a0e28fceb5c5cae76529c2772fec23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/Leaver/react-native-i18n/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="265d5a9330ad02283d16b9886fe8acebb306cd1e">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/Leaver-react-native-i18n-unspecified_e7dbec47cc8dba017918bf43df01632ec662e7d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/Leaver/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e4336ffc2b7653868134d7f6f8b28523ef54645">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/Leaver-react-native-device-info-unspecified_73d9935fe6c40520d5c2951a66e82c9349cdafbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_fea2c93d9d22e9ff82cfea24e23bd97b88de4f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.6_c129dfc508c2abbdf4a62c1fd872c1b06c26865b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_923ac663cff2ec903c86979f3c2d52be59c1d1f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c308983f76f5d69237b5961d711aa5cf14d27098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_656ad145a85a12638be46d7792109a54bca94e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ff323ce77f7d2888900a9aa553eb20cc879f4b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_1bdbf54951ea40dc1adbc4ac8af09e99eb974f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_af6bcfb55e39c59a6e28b0d18cb8fc45f58275c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0f978d0cfbf7b6defd8c6ecf46e4482060837c8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_ae7f8c5ac41f53cbdc59f01697d22aa55af6ef39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_bf611bbe9b6fe630d27c44813f8dfd0356536232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_adaa8e3b6c449ab33a8a688ed3012ed16d11449e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_d7090d9455346233a456fc6f55d23640b9c1e407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b386eb1d06c99db4c5df623e21556121984c8802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_615b6423c199d8212a2e21506e31e8b2327a6cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_69c8f89fdf79e0ea07c2a0e97fc7a7aea6276f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_cb7c55fc3a1d6c7a11669a847f821d7792325a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_f7b7d259dc7cc19c3d79ac93b0d86c0bad38c7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_83579d85843a03be08b5a42e8889ca43cbfa62a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_88a5dde8216521e94d3393a13a412065e5a21648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_1c5582e4614aa1029716fb1143edb1cc5d7c6109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/kennyyee/Desktop/RN/Leaver/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.6_c82f8c1875fbc96978f394c64b18d40914971c0d.jar" />
+    </item>
+
+</items>
